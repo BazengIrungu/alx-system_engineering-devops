@@ -1,2 +1,2 @@
 #!/bin/bash
-{ ls -al; ls .. -al; ls /boot -al;}
+ls -al /home/bazengirungu/Documents/ALX-SE/alx-system_engineering-devops/0x00-shell_basics /.. /boot

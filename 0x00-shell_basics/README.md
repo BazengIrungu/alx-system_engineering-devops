@@ -1,1 +1,1 @@
-Script that print curent working directory
+Script that print current working directory
